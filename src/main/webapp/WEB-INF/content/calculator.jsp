@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" style="background-color:whitesmoke;">
+<html lang="en" style="background-color:#1b1b1b;">
 <head>
     <meta charset="UTF-8">
     <title>Calculator | Struts2Calculator</title>
